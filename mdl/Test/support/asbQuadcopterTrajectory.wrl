@@ -49,6 +49,10 @@ EXTERNPROTO PROTO_11 [
 ]
 "asbWaypointMarker.wrl#MarkerProto" 
 
+EXTERNPROTO PROTO_12 [
+]
+"asbWaypointMarker.wrl#MarkerProto" 
+
 DEF LineTransform Transform {
   children DEF LineShape Shape {
     appearance DEF LineAppearance Appearance {
